@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="prime-factors/prime-factors.vcxproj" Id="3bf95431-214a-4b92-aef5-1bfe5949393c" />
+</Solution>
